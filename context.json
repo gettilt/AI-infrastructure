@@ -692,5 +692,17 @@
         ],
         "tweets": [],
         "experts": []
+    },
+    "CEG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Largest unregulated Nuclear Power company to help supply the massive energy needs of datacenters."
+            }
+        ]
     }
 }
