@@ -1,5 +1,6 @@
 {
     "name": "ai infrastructure",
     "prompt": "Artificial intelligence is the next big computing cycle (comparable to cloud and mobile). First we need to build AI infrastructure benefiting: semiconductor companies, data centers, HVAC companies, networking equipment, storage companies will all win.",
+    "explanation": "Looking at Nividia earnings there is a 2-3x increase in spend on infrastructure to power AI, but it's not just semis that are needed. Investing in companies involved in building AI infrastructure could be particularly advantageous now. As AI emerges as the next significant computing cycle, the demand for robust and efficient infrastructure grows. This encompasses semiconductor companies, data centers, HVAC systems for cooling, networking equipment, and storage solutions. Each of these sectors plays a crucial role in supporting AI development and deployment. As AI technologies become increasingly integrated into various industries, the companies providing the foundational infrastructure are well-positioned for significant growth, making this a promising area for strategic investment.",
     "github_repo": "ai-infrastructure"
 }
