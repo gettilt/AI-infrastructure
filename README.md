@@ -55,18 +55,15 @@ with open('theme.csv') as file:
 ]]]-->
 | Ticker  | Context | Source |
 | ------- | ---- | ---- |
-| AAPL | Apple invests heavily in AI for its devices and services, including Siri and facial recognition technologies. | chat_gpt,twitter,google |
 | AMD | Advanced Micro Devices provides processors and GPUs that power AI systems. | chat_gpt,claude,twitter,google |
 | AMZN | Amazon benefits through its AWS cloud services, offering AI and machine learning platforms. | chat_gpt,google |
 | ANET | Arista Networks benefits as its high-performance networking solutions are crucial for AI data centers. | chat_gpt,claude,google |
 | BABA | Alibaba Cloud offers AI-powered cloud services, making it a key player in AI infrastructure in Asia. | chat_gpt |
 | CARR | Carrier Global stands to benefit as demand for HVAC systems grows in data centers powered by AI. | chat_gpt |
-| CRM | Salesforce integrates AI into its CRM platform to provide predictive analytics and personalized customer experiences. | chat_gpt |
 | CSCO | Cisco Systems, a leading networking equipment provider, is essential for the infrastructure AI relies on. | chat_gpt,claude |
 | DELL | Dell Technologies offers storage solutions and servers that are foundational for AI data processing. | chat_gpt,twitter,google |
 | GOOGL | Google's parent company, Alphabet, is heavily invested in AI for cloud services and autonomous technologies. | chat_gpt,google |
 | HPE | Hewlett Packard Enterprise offers computing, storage, and networking products vital for AI infrastructure. | chat_gpt |
-| IBM | IBM's Watson is a pioneer in AI for business applications, from healthcare to finance. | chat_gpt,google |
 | INTC | Intel offers hardware essential for AI infrastructure, including CPUs and AI accelerators. | chat_gpt,claude |
 | MSFT | Microsoft's Azure cloud platform is a key player in AI services, offering a range of AI tools. | chat_gpt,twitter,google |
 | NVDA | NVIDIA is a leader in GPUs, crucial for AI computations and deep learning tasks. | chat_gpt,claude,twitter,google |
@@ -81,15 +78,14 @@ with open('theme.csv') as file:
 | LRCX |  | claude |
 | MRVL |  | claude |
 | QCOM |  | claude |
-| DDOG |  | twitter |
 | SE |  | twitter |
 | SMCI |  | twitter |
 | TSLA |  | twitter,google |
 | CAT |  | google |
 | ETN |  | google |
-| SNOW |  | google |
 | SO |  | google |
 | VRT |  | google |
+| CEG |  | experts |
 <!--[[[end]]]-->
 
 ## License
