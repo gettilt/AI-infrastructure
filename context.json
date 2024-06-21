@@ -83,7 +83,14 @@
                 "date": "2023-12-07T00:58:52Z"
             }
         ],
-        "experts": []
+        "experts": [],
+        "sec": [
+            {
+              "text": "We believe that AI capabilities are central to products and solutions across our markets and we have a broad technology roadmap and products targeting AI training and inference spanning cloud, edge and intelligent endpoints. We offer products that include capabilities to support AI deployment and we expect this part of our business to grow.",
+              "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/amd-20231230.htm",
+              "date": "2024-01-31"
+            }
+        ]
     },
     "AMZN": {
         "chat_gpt": "Amazon benefits through its AWS cloud services, offering AI and machine learning platforms.",
