@@ -55,7 +55,7 @@ with open('theme.csv') as file:
 ]]]-->
 | Ticker  | Context | Source |
 | ------- | ---- | ---- |
-| AMD | Advanced Micro Devices provides processors and GPUs that power AI systems. | chat_gpt,claude,twitter,google |
+| AMD | Advanced Micro Devices provides processors and GPUs that power AI systems. | chat_gpt,claude,twitter,google,sec |
 | AMZN | Amazon benefits through its AWS cloud services, offering AI and machine learning platforms. | chat_gpt,google |
 | ANET | Arista Networks benefits as its high-performance networking solutions are crucial for AI data centers. | chat_gpt,claude,google |
 | BABA | Alibaba Cloud offers AI-powered cloud services, making it a key player in AI infrastructure in Asia. | chat_gpt |
